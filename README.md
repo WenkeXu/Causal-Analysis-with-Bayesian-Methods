@@ -8,3 +8,4 @@ Leveraging pandas query and boolean indexing for rapid data subsetting.
 Implementing conditional logic to categorize and prepare features.
 ### Statistical Visualization: 
 Utilizing seaborn to create publication-quality plots (distribution, categorical, and corelation analysis).
+## new_model.R
